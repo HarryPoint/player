@@ -16,4 +16,4 @@ function floatPlayer(url) {
         });
     })
 };
-function api(url) {return 'http://api.47ks.com/webcloud/?v=' + url;}
+function api(url) {return 'https://api.47ks.com/webcloud/?v=' + url;}
